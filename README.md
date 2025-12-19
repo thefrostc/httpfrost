@@ -1,4 +1,4 @@
-# PyShare
+# httpFrost
 
 Secure and simple Python-based LAN file sharing HTTP server with upload, selective ZIP download, and multi-file support.
 
@@ -18,7 +18,7 @@ Secure and simple Python-based LAN file sharing HTTP server with upload, selecti
 
 ## Installation
 
-You can install PyShare via pip:
+You can install httpFrost via pip:
 
 ```bash
-pip install pyshare
+pip install httpfrost
